@@ -17,3 +17,9 @@ D:\OneDrive\Games\RimworldModSources\FactionalWar-master\1.5\Source\ModRimworldF
 D:\OneDrive\Games\RimworldModSources\FactionalWar-master\1.5\Source\ModRimworldFactionalWar\obj\Debug\ModRimWo.16F91F40.Up2Date
 D:\OneDrive\Games\RimworldModSources\FactionalWar-master\1.5\Source\ModRimworldFactionalWar\obj\Debug\ModRimWorldFactionalWar.dll
 D:\OneDrive\Games\RimworldModSources\FactionalWar-master\1.5\Source\ModRimworldFactionalWar\obj\Debug\ModRimWorldFactionalWar.pdb
+D:\OneDrive\Games\RimworldModSources\FactionalWarContinued\1.5\Assemblies\ModRimWorldFactionalWar.dll
+D:\OneDrive\Games\RimworldModSources\FactionalWarContinued\1.5\Assemblies\ModRimWorldFactionalWar.pdb
+D:\OneDrive\Games\RimworldModSources\FactionalWarContinued\1.5\Source\ModRimworldFactionalWar\obj\Debug\ModRimWorldFactionalWar.csproj.AssemblyReference.cache
+D:\OneDrive\Games\RimworldModSources\FactionalWarContinued\1.5\Source\ModRimworldFactionalWar\obj\Debug\ModRimWorldFactionalWar.csproj.CoreCompileInputs.cache
+D:\OneDrive\Games\RimworldModSources\FactionalWarContinued\1.5\Source\ModRimworldFactionalWar\obj\Debug\ModRimWorldFactionalWar.dll
+D:\OneDrive\Games\RimworldModSources\FactionalWarContinued\1.5\Source\ModRimworldFactionalWar\obj\Debug\ModRimWorldFactionalWar.pdb
