@@ -23,3 +23,5 @@ D:\OneDrive\Games\RimworldModSources\FactionalWarContinued\1.5\Source\ModRimworl
 D:\OneDrive\Games\RimworldModSources\FactionalWarContinued\1.5\Source\ModRimworldFactionalWar\obj\Debug\ModRimWorldFactionalWar.csproj.CoreCompileInputs.cache
 D:\OneDrive\Games\RimworldModSources\FactionalWarContinued\1.5\Source\ModRimworldFactionalWar\obj\Debug\ModRimWorldFactionalWar.dll
 D:\OneDrive\Games\RimworldModSources\FactionalWarContinued\1.5\Source\ModRimworldFactionalWar\obj\Debug\ModRimWorldFactionalWar.pdb
+C:\SteamLibrary\steamapps\common\RimWorld\Mods\FactionalWarContinued\1.5\Assemblies\ModRimWorldFactionalWar.dll
+C:\SteamLibrary\steamapps\common\RimWorld\Mods\FactionalWarContinued\1.5\Assemblies\ModRimWorldFactionalWar.pdb
