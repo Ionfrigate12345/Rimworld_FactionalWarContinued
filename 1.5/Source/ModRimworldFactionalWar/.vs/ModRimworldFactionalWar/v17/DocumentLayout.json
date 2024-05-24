@@ -3,27 +3,32 @@
   "WorkspaceRootPath": "D:\\OneDrive\\Games\\RimworldModSources\\FactionalWarContinued\\1.5\\Source\\ModRimworldFactionalWar\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F06AB588-7206-482F-8FB9-5EAD7DAFAE2D}|ModRimWorldFactionalWar.csproj|d:\\onedrive\\games\\rimworldmodsources\\factionalwarcontinued\\1.5\\source\\modrimworldfactionalwar\\util\\pawnspawnutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F06AB588-7206-482F-8FB9-5EAD7DAFAE2D}|ModRimWorldFactionalWar.csproj|d:\\onedrive\\games\\rimworldmodsources\\factionalwarcontinued\\1.5\\source\\modrimworldfactionalwar\\harmonypatches.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F06AB588-7206-482F-8FB9-5EAD7DAFAE2D}|ModRimWorldFactionalWar.csproj|solutionrelative:harmonypatches.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F06AB588-7206-482F-8FB9-5EAD7DAFAE2D}|ModRimWorldFactionalWar.csproj|d:\\onedrive\\games\\rimworldmodsources\\factionalwarcontinued\\1.5\\source\\modrimworldfactionalwar\\util\\harmonyutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F06AB588-7206-482F-8FB9-5EAD7DAFAE2D}|ModRimWorldFactionalWar.csproj|solutionrelative:util\\harmonyutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F06AB588-7206-482F-8FB9-5EAD7DAFAE2D}|ModRimWorldFactionalWar.csproj|D:\\OneDrive\\Games\\RimworldModSources\\FactionalWarContinued\\1.5\\Source\\ModRimworldFactionalWar\\util\\pawnspawnutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F06AB588-7206-482F-8FB9-5EAD7DAFAE2D}|ModRimWorldFactionalWar.csproj|solutionrelative:util\\pawnspawnutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|ModRimWorldFactionalWar||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+      "AbsoluteMoniker": "D:0:0:{F06AB588-7206-482F-8FB9-5EAD7DAFAE2D}|ModRimWorldFactionalWar.csproj|d:\\onedrive\\games\\rimworldmodsources\\factionalwarcontinued\\1.5\\source\\modrimworldfactionalwar\\incident\\incidentworkerfactionwar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F06AB588-7206-482F-8FB9-5EAD7DAFAE2D}|ModRimWorldFactionalWar.csproj|solutionrelative:incident\\incidentworkerfactionwar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F06AB588-7206-482F-8FB9-5EAD7DAFAE2D}|ModRimWorldFactionalWar.csproj|d:\\onedrive\\games\\rimworldmodsources\\factionalwarcontinued\\1.5\\source\\modrimworldfactionalwar\\worldobject\\site\\sitefactionwarcontention.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F06AB588-7206-482F-8FB9-5EAD7DAFAE2D}|ModRimWorldFactionalWar.csproj|solutionrelative:worldobject\\site\\sitefactionwarcontention.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F06AB588-7206-482F-8FB9-5EAD7DAFAE2D}|ModRimWorldFactionalWar.csproj|d:\\onedrive\\games\\rimworldmodsources\\factionalwarcontinued\\1.5\\source\\modrimworldfactionalwar\\incident\\incidentworkerfactionwarcontentionsitegenerate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F06AB588-7206-482F-8FB9-5EAD7DAFAE2D}|ModRimWorldFactionalWar.csproj|solutionrelative:incident\\incidentworkerfactionwarcontentionsitegenerate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F06AB588-7206-482F-8FB9-5EAD7DAFAE2D}|ModRimWorldFactionalWar.csproj|d:\\onedrive\\games\\rimworldmodsources\\factionalwarcontinued\\1.5\\source\\modrimworldfactionalwar\\pawn\\pawngroupmakerutility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F06AB588-7206-482F-8FB9-5EAD7DAFAE2D}|ModRimWorldFactionalWar.csproj|D:\\OneDrive\\Games\\RimworldModSources\\FactionalWarContinued\\1.5\\Source\\ModRimworldFactionalWar\\pawn\\pawngroupmakerutility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F06AB588-7206-482F-8FB9-5EAD7DAFAE2D}|ModRimWorldFactionalWar.csproj|solutionrelative:pawn\\pawngroupmakerutility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F06AB588-7206-482F-8FB9-5EAD7DAFAE2D}|ModRimWorldFactionalWar.csproj|d:\\onedrive\\games\\rimworldmodsources\\factionalwarcontinued\\1.5\\source\\modrimworldfactionalwar\\worldobject\\site\\sitefactionwarshelling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F06AB588-7206-482F-8FB9-5EAD7DAFAE2D}|ModRimWorldFactionalWar.csproj|solutionrelative:worldobject\\site\\sitefactionwarshelling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F06AB588-7206-482F-8FB9-5EAD7DAFAE2D}|ModRimWorldFactionalWar.csproj|D:\\OneDrive\\Games\\RimworldModSources\\FactionalWarContinued\\1.5\\Source\\ModRimworldFactionalWar\\worldobject\\site\\sitetempcamp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F06AB588-7206-482F-8FB9-5EAD7DAFAE2D}|ModRimWorldFactionalWar.csproj|solutionrelative:worldobject\\site\\sitetempcamp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F06AB588-7206-482F-8FB9-5EAD7DAFAE2D}|ModRimWorldFactionalWar.csproj|D:\\OneDrive\\Games\\RimworldModSources\\FactionalWarContinued\\1.5\\Source\\ModRimworldFactionalWar\\worldobject\\site\\sitefactionwarcontention.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F06AB588-7206-482F-8FB9-5EAD7DAFAE2D}|ModRimWorldFactionalWar.csproj|solutionrelative:worldobject\\site\\sitefactionwarcontention.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F06AB588-7206-482F-8FB9-5EAD7DAFAE2D}|ModRimWorldFactionalWar.csproj|D:\\OneDrive\\Games\\RimworldModSources\\FactionalWarContinued\\1.5\\Source\\ModRimworldFactionalWar\\incident\\incidentworkerfactionwarshellingsitegenerate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -64,9 +69,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{F06AB588-7206-482F-8FB9-5EAD7DAFAE2D}|ModRimWorldFactionalWar.csproj|D:\\OneDrive\\Games\\RimworldModSources\\FactionalWarContinued\\1.5\\Source\\ModRimworldFactionalWar\\worldobject\\site\\symbolresolvertempcamp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F06AB588-7206-482F-8FB9-5EAD7DAFAE2D}|ModRimWorldFactionalWar.csproj|solutionrelative:worldobject\\site\\symbolresolvertempcamp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F06AB588-7206-482F-8FB9-5EAD7DAFAE2D}|ModRimWorldFactionalWar.csproj|d:\\onedrive\\games\\rimworldmodsources\\factionalwarcontinued\\1.5\\source\\modrimworldfactionalwar\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|a54ad834-9219-4aa6-b589-607af21c3e26"
     }
   ],
   "DocumentGroupContainers": [
@@ -76,36 +78,76 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ModRimWorldFactionalWar",
-              "DocumentMoniker": "D:\\OneDrive\\Games\\RimworldModSources\\FactionalWarContinued\\1.5\\Source\\ModRimworldFactionalWar\\ModRimWorldFactionalWar.csproj",
-              "RelativeDocumentMoniker": "ModRimWorldFactionalWar.csproj",
-              "ToolTip": "D:\\OneDrive\\Games\\RimworldModSources\\FactionalWarContinued\\1.5\\Source\\ModRimworldFactionalWar\\ModRimWorldFactionalWar.csproj",
-              "RelativeToolTip": "ModRimWorldFactionalWar.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-05-06T14:49:14.82Z",
+              "Title": "HarmonyUtil.cs",
+              "DocumentMoniker": "D:\\OneDrive\\Games\\RimworldModSources\\FactionalWarContinued\\1.5\\Source\\ModRimworldFactionalWar\\Util\\HarmonyUtil.cs",
+              "RelativeDocumentMoniker": "Util\\HarmonyUtil.cs",
+              "ToolTip": "D:\\OneDrive\\Games\\RimworldModSources\\FactionalWarContinued\\1.5\\Source\\ModRimworldFactionalWar\\Util\\HarmonyUtil.cs",
+              "RelativeToolTip": "Util\\HarmonyUtil.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAiwCUAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T01:57:42.616Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "HarmonyPatches.cs",
+              "DocumentMoniker": "D:\\OneDrive\\Games\\RimworldModSources\\FactionalWarContinued\\1.5\\Source\\ModRimworldFactionalWar\\HarmonyPatches.cs",
+              "RelativeDocumentMoniker": "HarmonyPatches.cs",
+              "ToolTip": "D:\\OneDrive\\Games\\RimworldModSources\\FactionalWarContinued\\1.5\\Source\\ModRimworldFactionalWar\\HarmonyPatches.cs",
+              "RelativeToolTip": "HarmonyPatches.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T01:51:39.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "PawnSpawnUtil.cs",
               "DocumentMoniker": "D:\\OneDrive\\Games\\RimworldModSources\\FactionalWarContinued\\1.5\\Source\\ModRimworldFactionalWar\\Util\\PawnSpawnUtil.cs",
               "RelativeDocumentMoniker": "Util\\PawnSpawnUtil.cs",
               "ToolTip": "D:\\OneDrive\\Games\\RimworldModSources\\FactionalWarContinued\\1.5\\Source\\ModRimworldFactionalWar\\Util\\PawnSpawnUtil.cs",
               "RelativeToolTip": "Util\\PawnSpawnUtil.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAB4AAAAnAAAA",
+              "ViewState": "AQIAABAAAAAAAAAAAAAkwCMAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-06T14:42:47.323Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SiteTempCamp.cs",
+              "DocumentMoniker": "D:\\OneDrive\\Games\\RimworldModSources\\FactionalWarContinued\\1.5\\Source\\ModRimworldFactionalWar\\WorldObject\\Site\\SiteTempCamp.cs",
+              "RelativeDocumentMoniker": "WorldObject\\Site\\SiteTempCamp.cs",
+              "ToolTip": "D:\\OneDrive\\Games\\RimworldModSources\\FactionalWarContinued\\1.5\\Source\\ModRimworldFactionalWar\\WorldObject\\Site\\SiteTempCamp.cs",
+              "RelativeToolTip": "WorldObject\\Site\\SiteTempCamp.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T19:44:38.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IncidentWorkerFactionWar.cs",
+              "DocumentMoniker": "D:\\OneDrive\\Games\\RimworldModSources\\FactionalWarContinued\\1.5\\Source\\ModRimworldFactionalWar\\Incident\\IncidentWorkerFactionWar.cs",
+              "RelativeDocumentMoniker": "Incident\\IncidentWorkerFactionWar.cs",
+              "ToolTip": "D:\\OneDrive\\Games\\RimworldModSources\\FactionalWarContinued\\1.5\\Source\\ModRimworldFactionalWar\\Incident\\IncidentWorkerFactionWar.cs",
+              "RelativeToolTip": "Incident\\IncidentWorkerFactionWar.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAADwvy0AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T14:13:01.947Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -122,33 +164,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "IncidentWorkerFactionWarContentionSiteGenerate.cs",
-              "DocumentMoniker": "D:\\OneDrive\\Games\\RimworldModSources\\FactionalWarContinued\\1.5\\Source\\ModRimworldFactionalWar\\Incident\\IncidentWorkerFactionWarContentionSiteGenerate.cs",
-              "RelativeDocumentMoniker": "Incident\\IncidentWorkerFactionWarContentionSiteGenerate.cs",
-              "ToolTip": "D:\\OneDrive\\Games\\RimworldModSources\\FactionalWarContinued\\1.5\\Source\\ModRimworldFactionalWar\\Incident\\IncidentWorkerFactionWarContentionSiteGenerate.cs",
-              "RelativeToolTip": "Incident\\IncidentWorkerFactionWarContentionSiteGenerate.cs",
-              "ViewState": "AQIAABQAAAAAAAAAAADwvywAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-06T14:27:16.251Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "SiteFactionWarContention.cs",
               "DocumentMoniker": "D:\\OneDrive\\Games\\RimworldModSources\\FactionalWarContinued\\1.5\\Source\\ModRimworldFactionalWar\\WorldObject\\Site\\SiteFactionWarContention.cs",
               "RelativeDocumentMoniker": "WorldObject\\Site\\SiteFactionWarContention.cs",
               "ToolTip": "D:\\OneDrive\\Games\\RimworldModSources\\FactionalWarContinued\\1.5\\Source\\ModRimworldFactionalWar\\WorldObject\\Site\\SiteFactionWarContention.cs",
               "RelativeToolTip": "WorldObject\\Site\\SiteFactionWarContention.cs",
-              "ViewState": "AQIAACsAAAAAAAAAAAAAwEoAAAAkAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-06T14:28:20.228Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-06T14:28:20.228Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "IncidentWorkerFactionWarShellingSiteGenerate.cs",
               "DocumentMoniker": "D:\\OneDrive\\Games\\RimworldModSources\\FactionalWarContinued\\1.5\\Source\\ModRimworldFactionalWar\\Incident\\IncidentWorkerFactionWarShellingSiteGenerate.cs",
               "RelativeDocumentMoniker": "Incident\\IncidentWorkerFactionWarShellingSiteGenerate.cs",
@@ -160,20 +188,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "SiteFactionWarShelling.cs",
-              "DocumentMoniker": "D:\\OneDrive\\Games\\RimworldModSources\\FactionalWarContinued\\1.5\\Source\\ModRimworldFactionalWar\\WorldObject\\Site\\SiteFactionWarShelling.cs",
-              "RelativeDocumentMoniker": "WorldObject\\Site\\SiteFactionWarShelling.cs",
-              "ToolTip": "D:\\OneDrive\\Games\\RimworldModSources\\FactionalWarContinued\\1.5\\Source\\ModRimworldFactionalWar\\WorldObject\\Site\\SiteFactionWarShelling.cs",
-              "RelativeToolTip": "WorldObject\\Site\\SiteFactionWarShelling.cs",
-              "ViewState": "AQIAAC4AAAAAAAAAAAASwE4AAABZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-07T15:42:14.353Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "SymbolResolverTempCamp.cs",
               "DocumentMoniker": "D:\\OneDrive\\Games\\RimworldModSources\\FactionalWarContinued\\1.5\\Source\\ModRimworldFactionalWar\\WorldObject\\Site\\SymbolResolverTempCamp.cs",
               "RelativeDocumentMoniker": "WorldObject\\Site\\SymbolResolverTempCamp.cs",
@@ -185,7 +200,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "DutyDefOf.cs",
               "DocumentMoniker": "D:\\OneDrive\\Games\\RimworldModSources\\FactionalWarContinued\\1.5\\Source\\ModRimworldFactionalWar\\AI\\AIGroup\\DutyDefOf.cs",
               "RelativeDocumentMoniker": "AI\\AIGroup\\DutyDefOf.cs",
@@ -197,7 +212,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "LordJobFactionContention.cs",
               "DocumentMoniker": "D:\\OneDrive\\Games\\RimworldModSources\\FactionalWarContinued\\1.5\\Source\\ModRimworldFactionalWar\\AI\\AIGroup\\LordJobFactionContention.cs",
               "RelativeDocumentMoniker": "AI\\AIGroup\\LordJobFactionContention.cs",
@@ -209,7 +224,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "LordToilShell.cs",
               "DocumentMoniker": "D:\\OneDrive\\Games\\RimworldModSources\\FactionalWarContinued\\1.5\\Source\\ModRimworldFactionalWar\\AI\\AIGroup\\LordToilShell.cs",
               "RelativeDocumentMoniker": "AI\\AIGroup\\LordToilShell.cs",
@@ -221,7 +236,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "KidnapAIUtil.cs",
               "DocumentMoniker": "D:\\OneDrive\\Games\\RimworldModSources\\FactionalWarContinued\\1.5\\Source\\ModRimworldFactionalWar\\AI\\AIGroup\\KidnapAIUtil.cs",
               "RelativeDocumentMoniker": "AI\\AIGroup\\KidnapAIUtil.cs",
@@ -233,7 +248,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "LordJobAssaultFactionFirst.cs",
               "DocumentMoniker": "D:\\OneDrive\\Games\\RimworldModSources\\FactionalWarContinued\\1.5\\Source\\ModRimworldFactionalWar\\AI\\AIGroup\\LordJobAssaultFactionFirst.cs",
               "RelativeDocumentMoniker": "AI\\AIGroup\\LordJobAssaultFactionFirst.cs",
@@ -245,7 +260,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "LordJobDefendPoint.cs",
               "DocumentMoniker": "D:\\OneDrive\\Games\\RimworldModSources\\FactionalWarContinued\\1.5\\Source\\ModRimworldFactionalWar\\AI\\AIGroup\\LordJobDefendPoint.cs",
               "RelativeDocumentMoniker": "AI\\AIGroup\\LordJobDefendPoint.cs",
@@ -257,7 +272,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "SettingWindow.cs",
               "DocumentMoniker": "D:\\OneDrive\\Games\\RimworldModSources\\FactionalWarContinued\\1.5\\Source\\ModRimworldFactionalWar\\UI\\Window\\SettingWindow.cs",
               "RelativeDocumentMoniker": "UI\\Window\\SettingWindow.cs",
@@ -269,7 +284,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "GenStepAirdropResource.cs",
               "DocumentMoniker": "D:\\OneDrive\\Games\\RimworldModSources\\FactionalWarContinued\\1.5\\Source\\ModRimworldFactionalWar\\WorldObject\\Site\\GenStepAirdropResource.cs",
               "RelativeDocumentMoniker": "WorldObject\\Site\\GenStepAirdropResource.cs",
